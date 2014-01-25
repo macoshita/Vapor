@@ -1,5 +1,4 @@
 @import url(//fonts.googleapis.com/css?subset=latin,cyrillic-ext,latin-ext,cyrillic&family=Open+Sans+Condensed:300|Merriweather:400,300,300italic,400italic,700,700italic|Roboto+Slab:400,300);
-
 @import url(//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css);
 /* === Core Styles === */
 body {
@@ -23,7 +22,7 @@ p,
 li,
 dt,
 dd {
-  font-family: "Merriweather", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
+  font-family: "Lucida Grande", "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", Meiryo, "メイリオ", sans-serif;
 }
 h1,
 .post-meta {
@@ -74,7 +73,7 @@ p code {
 }
 h1 {
   color: #151515;
-  font-family: "Roboto Slab", "Merriweather", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
+  font-family: "Roboto Slab", "Lucida Grande", "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", Meiryo, "メイリオ", sans-serif;
   font-size: 36px;
   font-weight: 400;
   line-height: 42px;
@@ -160,7 +159,7 @@ section.share p {
   margin: 0;
 }
 section.author h4 {
-  font-family: "Roboto Slab", "Merriweather", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
+  font-family: "Roboto Slab", "Lucida Grande", "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", Meiryo, "メイリオ", sans-serif;
   font-weight: 400;
   margin-bottom: 4px;
 }
@@ -390,7 +389,6 @@ a.archive-link {
   text-transform: uppercase !important;
   display: none !important;
   /* Hide GitHub attribution */
-
 }
 .gist .gist-file .gist-meta a:visited {
   color: #3498db !important;
@@ -399,7 +397,6 @@ a.archive-link {
   background: #fdfdfd !important;
   border-bottom: none !important;
   /* Hide GitHub attribution */
-
 }
 .gist .gist-file .gist-data .line-numbers {
   border-right: none !important;
