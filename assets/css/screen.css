@@ -3,7 +3,7 @@
 /* === Core Styles === */
 body {
   background-color: #ffffff;
-  color: #7f8c8d;
+  color: #333333;
   font-size: 15px;
   font-weight: 100;
   line-height: 1.6em;
@@ -341,7 +341,7 @@ a.archive-link {
   font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
   text-transform: uppercase;
   font-size: 20px;
-  color: #7f8c8d;
+  color: #333333;
   text-align: center;
   padding: 0.5em 0;
 }
